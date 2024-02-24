@@ -71,9 +71,6 @@ const Signin = () => {
               />
             </div>
 
-            <a href="#" className="text-xs text-purple-600 hover:underline">
-              Forget Password?
-            </a>
 
             <div className="mt-6">
               <button
